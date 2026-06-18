@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I’m Elham 👋
+Backend Developer focused on Python and Django.
 
-<!--
-**elhamrm202/elhamrm202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building backend systems, REST APIs, and database‑driven applications. My main focus is developing clean, scalable backend services using Django and Django REST Framework.
 
-Here are some ideas to get you started:
+Tech Stack
+Python
+Django
+Django REST Framework
+PostgreSQL
+Git & GitHub
+REST API Development
+Projects
+Dr Beauty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend system for managing a beauty clinic.
+
+Features include appointment management, user management, and service organization.
+
+GitHub: https://github.com/elhamrm202/dr_beauty
+
+(More projects coming soon)
+
+What I’m Learning
+Advanced Django architecture
+API design best practices
+Docker for backend deployment
+Contact
+GitHub: https://github.com/elhamrm202
